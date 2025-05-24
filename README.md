@@ -1,7 +1,7 @@
 # Echoserver
 Echo server and client using python socket
-## Name: Shanmuga Raj.K
-## Reg no: 212223040192
+## Name: Vineela Shaik
+## Reg no: 212223040243
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
